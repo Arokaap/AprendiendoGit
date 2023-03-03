@@ -1,0 +1,98 @@
+commit 39ac3c64b3e6e08356ee172eaeb3f20fae475ff3
+Author: Aaron Aragon <aaron.david.nagore@gmail.com>
+Date:   Fri Mar 3 13:01:43 2023 +0100
+
+    Agregando dos parrafos
+
+commit c9eade0de8eb40d543be28fbbc7dac423cfbf853
+Merge: 6491959 5fa7a82
+Author: Aaron Aragon <aaron.david.nagore@gmail.com>
+Date:   Fri Mar 3 12:58:57 2023 +0100
+
+    Resolviendo conflicto en estaciones del año y fechas de inicio
+
+commit 6491959258b8aa569f43d610a58c8e6d715930b4
+Author: Aaron Aragon <aaron.david.nagore@gmail.com>
+Date:   Fri Mar 3 12:40:33 2023 +0100
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 5fa7a8212e3c214199eaef6846d92c39f55f0e91
+Author: Aaron Aragon <aaron.david.nagore@gmail.com>
+Date:   Fri Mar 3 12:40:33 2023 +0100
+
+    Agregando las estaciones del año
+
+commit f0bf3a2ad39442de9bcbb8b551f616ac03101e6c
+Merge: ce6d4b9 720a585
+Author: Aaron Aragon <aaron.david.nagore@gmail.com>
+Date:   Fri Mar 3 12:36:30 2023 +0100
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 720a585215248b856f60399edbea0f42538215b1
+Author: Aaron Aragon <aaron.david.nagore@gmail.com>
+Date:   Fri Mar 3 12:27:13 2023 +0100
+
+    Agregando index.js al index.html
+
+commit ce6d4b97c75c3e95fcb9d789921ecf4ef38126a0
+Author: Aaron Aragon <aaron.david.nagore@gmail.com>
+Date:   Fri Mar 3 12:24:38 2023 +0100
+
+    Agregando style.css al index.html
+
+commit f61bbb19bcc64986fd6d85715e8a16b048ffb028
+Merge: 734f88a 977b569
+Author: Aaron Aragon <aaron.david.nagore@gmail.com>
+Date:   Thu Mar 2 23:32:36 2023 +0100
+
+    Merge branch 'js'
+
+commit 977b5697329562ef625f3b876a1358a4478dafd5
+Author: Aaron Aragon <aaron.david.nagore@gmail.com>
+Date:   Thu Mar 2 23:27:08 2023 +0100
+
+    Creando index.js
+
+commit 734f88a7d300ff927127b0442246d10fc4e75f61
+Author: Aaron Aragon <aaron.david.nagore@gmail.com>
+Date:   Thu Mar 2 23:22:34 2023 +0100
+
+    Creando style.css
+
+commit d5c0bba3793daba309015a7382ae80dee843bbbd
+Author: Aaron Aragon <aaron.david.nagore@gmail.com>
+Date:   Thu Mar 2 23:17:33 2023 +0100
+
+    Creando index.html
+
+commit c951c39d9f7cea8eb17dc0ec7c19e15879938219
+Author: Aaron Aragon <aaron.david.nagore@gmail.com>
+Date:   Thu Mar 2 21:51:46 2023 +0100
+
+    Ignorando archivos .exe
+
+commit 722100339939048fcc852d76f7d03f1a6cfedd84
+Author: Arokaap <103061720+Arokaap@users.noreply.github.com>
+Date:   Thu Mar 2 20:36:18 2023 +0100
+
+    Creando licencia del repositorio
+
+commit 2184cacdb5ad89dc21a856bacc2ae3524a92044b
+Author: Aaron Aragon <aaron.david.nagore@gmail.com>
+Date:   Thu Mar 2 20:22:29 2023 +0100
+
+    Agregando mas contenido al README
+
+commit f4be9668e43a9123ecd9a6adb895837d89da9a96
+Author: Aaron Aragon <aaron.david.nagore@gmail.com>
+Date:   Thu Mar 2 14:27:55 2023 +0100
+
+    Agregando contenido inicial al README
+
+commit a3f1446fa0ba1f1725dcc74fa01c8d813012c3b9
+Author: Aaron Aragon <aaron.david.nagore@gmail.com>
+Date:   Thu Mar 2 14:22:03 2023 +0100
+
+    Primer Commit 😁

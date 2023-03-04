@@ -4,4 +4,6 @@ Hola soy Aarón Aragón Aroca y con este repositorio estudio Git, espero que os 
 
 Agregando contenido al _README.md_
 
-Este commit es para oficializar nuestra versión **1.0.0**.
+¿Quieres dominar el uso de _git_? Mira este enlace [enlace](https://jonmircha.com/git).
+
+![Flujo de Git](git-flow.png)

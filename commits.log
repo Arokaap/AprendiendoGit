@@ -1,3 +1,68 @@
+commit 7fb1382d713bfa97cbb35f24e93d8c14b1ff8f4c
+Merge: 17b6752 13a81ba
+Author: Arokaap <103061720+Arokaap@users.noreply.github.com>
+Date:   Sat Mar 4 01:22:22 2023 +0100
+
+    Merge pull request #1 from Arokaap2/readme-Arokaap2
+    
+    Readme arokaap2
+
+commit 13a81badad68d080f7b65d6263f581bd53a9ca9a
+Author: Arokaap2 <aaron.david.nagore@hotmail.es>
+Date:   Sat Mar 4 00:58:56 2023 +0100
+
+    Mejorando el README del repositorio
+
+commit 3bb31ca01cba2c4e874f24b5db0e13e99b4dee1c
+Merge: caf832a 00344cf
+Author: Arokaap2 <aaron.david.nagore@hotmail.es>
+Date:   Sat Mar 4 00:30:18 2023 +0100
+
+    Conflicto solucionado
+
+commit caf832aa3cb30cdb2a5566757fd20ba81cb5367c
+Author: Arokaap2 <aaron.david.nagore@hotmail.es>
+Date:   Sat Mar 4 00:18:33 2023 +0100
+
+    Cambio de prueba de la segunda cuenta de git
+
+commit 00344cf43e0756c9cf8c1635c6382658920d6b67
+Author: Arokaap2 <aaron.david.nagore@hotmail.es>
+Date:   Sat Mar 4 00:18:33 2023 +0100
+
+    Cambio de prueba de la segunda cuenta de git
+
+commit 17b67522980a4a211973501d50030c0817d6ec3c
+Author: Aaron Aragon <aaron.david.nagore@gmail.com>
+Date:   Fri Mar 3 21:29:20 2023 +0100
+
+    Agregando imagen de flujo Git y mejorando el index.html
+
+commit ef40120a467074ae85233603dcff9a6609583ad8
+Author: Aaron Aragon <aaron.david.nagore@gmail.com>
+Date:   Fri Mar 3 20:46:02 2023 +0100
+
+    v1.0.0
+
+commit 57dd005bc7fff1591749edf163c428d40195f4a1
+Merge: fcdeec7 964d804
+Author: Aaron Aragon <aaron.david.nagore@gmail.com>
+Date:   Fri Mar 3 17:52:08 2023 +0100
+
+    Merge branch 'main' of https://github.com/Arokaap/AprendiendoGit
+
+commit fcdeec7850624fd9f46202342474954388655887
+Author: Aaron Aragon <aaron.david.nagore@gmail.com>
+Date:   Fri Mar 3 15:41:54 2023 +0100
+
+    Respaldando logs del repositorio
+
+commit 964d804edc38a4242d52d4669efb1475625e1d1a
+Author: Aaron Aragon <aaron.david.nagore@gmail.com>
+Date:   Fri Mar 3 15:41:54 2023 +0100
+
+    Respaldando logs del repositorio
+
 commit 39ac3c64b3e6e08356ee172eaeb3f20fae475ff3
 Author: Aaron Aragon <aaron.david.nagore@gmail.com>
 Date:   Fri Mar 3 13:01:43 2023 +0100
